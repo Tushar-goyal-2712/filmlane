@@ -1,13 +1,13 @@
 
-#  Cineflix Website Clone
+#  Filmlane Website Clone
 
-Clone of cineflix website
+Clone of filmlane website
 
 
 
 ## 💻 Demo
 
-[Cineflix Clone Website Link](https://cineflix-movie-website-by-tushar.netlify.app/)
+[Filmlane Clone Website Link](https://filmlane-movie-website-by-tushar.netlify.app/)
 
 
 ## 📍 Run Locally
@@ -15,7 +15,7 @@ Clone of cineflix website
 Clone the project
 
 ```bash
-  git clone https://github.com/Tushar-goyal-2712/Cineflix-Website-clone.git
+  git clone https://github.com/Tushar-goyal-2712/filmlane.git
 ```
 
 Install node_module dependencies
@@ -34,7 +34,7 @@ Visit [Local Host](http://localhost/)
 
 ## 📍 Screenshots
 
-![](https://github.com/Tushar-goyal-2712/Cineflix-Website-clone/blob/5b833a3d516c89b04d52bfa75f07d59ad6ff6b08/Screenshots/cineflix-movie.png)
+![](https://github.com/Tushar-goyal-2712/filmlane/blob/9b9d61a971aa01a2368b3a21c272be8074637bf6/Screenshots/design.png)
 
 ## 📍 Deployment
 
